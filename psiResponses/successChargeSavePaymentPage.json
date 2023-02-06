@@ -1,0 +1,35 @@
+{
+    "CID": "1000001",
+    "Action": "REGISTER NEW CHARGE(S)",
+    "ReturnCode": "RRC-0000",
+    "ReturnMessage": "Register Recurring Charges completed successfully.",
+    "Charge": {
+        "ReturnCode": "RRC-0050",
+        "ReturnMessage": "Register Recurring Charge completed successfully.",
+        "RBCID": "2023020411314817141",
+        "StoreID": "teststore",
+        "RBName": "Subscription Purchase premium-retail-monthly",
+        "AccountID": "D00004",
+        "SerialNo": "1",
+        "Status": "A",
+        "Interval": "M",
+        "Trigger": "04",
+        "ProcessType": "A",
+        "TemplateID": {},
+        "InstallmentNo": "0",
+        "StartDate": "2023.02.04",
+        "EndDate": "2023.03.04",
+        "ItemInfo": {
+            "Status": "A",
+            "ItemSerialNo": "1",
+            "ProductID": "1",
+            "Description": "Subscription Purchase",
+            "Quantity": "1.00",
+            "Price": "90.00",
+            "Tax1": "11.70",
+            "Tax2": "0.00",
+            "Shipping": "0.00",
+            "SubTotal": "101.70"
+        }
+    }
+} ◀

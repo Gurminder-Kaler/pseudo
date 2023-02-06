@@ -1,0 +1,21 @@
+{
+    "CID": "1000001",
+    "Action": "ADD NEW PAYMENT METHOD(S)",
+    "ReturnCode": "RPA-0015",
+    "ReturnMessage": "Add Card Information completed successfully.",
+    "Account": {
+        "ReturnCode": "RPA-0015",
+        "ReturnMessage": "Add Card Information completed successfully.",
+        "AccountID": "D00002",
+        "CardInfo": {
+            "Status": "A",
+            "SerialNo": "6",
+            "AccountID": "D00002",
+            "CardHolder": "flint2",
+            "CardNumber": "411111...1111",
+            "CardExpMonth": "12",
+            "CardExpYear": "24",
+            "CardType": "VISA"
+        }
+    }
+}
